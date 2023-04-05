@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/log4j-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-aop-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-aop-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-aop-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-aspects-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-aspects-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-aspects-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-beans-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-beans-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-context-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-context-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-context-support-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-context-support-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-context-support-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-core-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-core-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-expression-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-expression-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-expression-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-instrument-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-instrument-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-instrument-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-instrument-tomcat-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-instrument-tomcat-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-instrument-tomcat-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-jdbc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-jdbc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-jms-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-jms-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-jms-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-messaging-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-messaging-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-messaging-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-orm-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-orm-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-orm-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-oxm-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-oxm-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-oxm-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-test-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-test-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-test-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-tx-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-tx-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-tx-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-web-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-web-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-web-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-webmvc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-webmvc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-webmvc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-webmvc-portlet-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-webmvc-portlet-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-webmvc-portlet-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-websocket-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-websocket-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhush/Desktop/JAVA/JAVA JAR  FILES/Spring+JDBC Jar/libs/spring-websocket-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
